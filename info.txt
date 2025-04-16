@@ -1,0 +1,16 @@
+I want to make a project of an inventory management system with integrating AI
+
+The project would be trained on 4 years of data of a shop and having different products with sales in every month
+the data would have data of 10 states of india
+
+The data would be analyzed and then according to the month choosen there would be predictions made like the the product would be needed more in the next month or it wont be required next month keeping in mind that the supply comes every 45 days
+
+In the first page there would be login/signup with google and email
+
+if the user is not registered, then there would be a page where there would be an input of a the shop name, the product names and the file containing data of 4years of sales of the shop of the product items listed
+
+if the user is already registered then in the ui first component would be the visualization of the inventory present and an option of updating the inventory
+
+Then there would be a section where there would be a suggestion where if there is more inventory present than required in next few months, then it would suggest these items can be put to sale 
+
+Then it would have an inventory management system
